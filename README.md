@@ -1,8 +1,7 @@
 # North-wind-traders-Analysis
-# Power BI Case Study: Sales
 
 ## 📊 Overview
-This project contains the Power BI report `sales.pbix`, which provides an in-depth analysis of sales performance. The report explores revenue trends, product performance, and customer behavior to help drive strategic decisions.
+This project contains the Power BI report (https://drive.google.com/file/d/1ys-8ny7ZT23LU55kQ_hE622dLDkYEtjp/view?usp=drive_link), which provides an in-depth analysis of sales performance. The report explores revenue trends, product performance, and customer behavior to help drive strategic decisions.
 
 ## 🔍 Key Insights
 This report highlights:
